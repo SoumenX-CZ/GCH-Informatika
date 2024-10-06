@@ -20,4 +20,6 @@ int main() {
     // return 0; ukončí program a vrátí hodnotu 0
     // Hodnota 0 obvykle znamená, že program skončil úspěšně
     return 0;
+
+    //TODO: Napište program, který vypočítá přeponu pravoúhlého trojúhelníka.
 }
