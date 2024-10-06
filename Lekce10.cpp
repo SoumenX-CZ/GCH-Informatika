@@ -43,4 +43,6 @@ int main() {
     cin >> cislo; // Zabránění okamžitému ukončení programu
 
     return 0; // Ukončení programu
+
+    //TODO: Napište program, který bude řešit kvadratickou rovnici v oboru realných čísel ve tvaru ax^2 + bx + c = 0.
 }
