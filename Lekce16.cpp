@@ -11,11 +11,15 @@ int main() {
     cout << "Zadejte exponent: ";
     cin >> n;
 
-    for (i; i<=n; i++) {
+    for (i; i<=abs(n); i++) {
         pomocna *=a;
-
     } 
-    cout << pomocna;
+    
+    if (n >= 0) {
+        cout << pomocna << endl;
+    }
+    else 
+        cout << 1/pomocna << endl;
 
 
 }
